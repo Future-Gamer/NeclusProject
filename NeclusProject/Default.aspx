@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="NeclusProject.WebForm1" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="NeclusProject.WebForm2" %>
 
 <!DOCTYPE html>
 
@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Hello World
+            Home Page
         </div>
     </form>
 </body>
